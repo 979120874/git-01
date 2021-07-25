@@ -6,6 +6,5 @@ public class student
     {
         System.out.println("Git第一次提交");
         System.out.println("Git第二次提交");
-        System.out.println("创建分支");
     }
 }
